@@ -1,2 +1,3 @@
 # PowerBI-Projects
-Where power-BI projects done by M.Sura are posted here
+Where power-BI projects done by M.Suraj
+are posted here
